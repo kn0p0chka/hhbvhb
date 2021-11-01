@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+}
+.b1 {
+  background-image: url(./zdanie-neboskreb-okna.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.a1 {
+  background-color: rgba(0, 4, 14, 0.671);
+  width: 100vw;
+  height: 100vh;
+}
+.logo1 {
+  width: 400px;
+  height: 85px;
+  display: flex;
+  justify-content: flex-start;
+  font-family: "Bebas Neue", cursive;
+  line-height: 100%;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.534);
+  font-size: 40px;
+  position: absolute;
+  left: 40%;
+  margin-top: 20px;
+}
+.i {
+  width: 70px;
+  height: 70px;
+  margin-right: 10px;
+}
+.e {
+  color: rgba(255, 255, 255, 0.897);
+  font-family: "Dosis", sans-serif;
+  font-size: 35px;
+  cursor: pointer;
+}
+.text1 {
+  position: absolute;
+  left: 25%;
+  top: 40%;
+}
+.te {
+  width: 370px;
+  text-align: center;
+  font-size: 60px;
+  font-family: sans-serif;
+  position: relative;
+  left: 35%;
+  top: 40%;
+}
+.t {
+  width: 600px;
+  text-align: center;
+  font-size: 25px;
+  font-family: "Poppins";
+  position: absolute;
+  left: 10%;
+  top: 90%;
+}
+.menu2 {
+  background-color: rgba(255, 255, 255, 0.726);
+  font-size: 40px;
+  width: 100vw;
+  height: 85px;
+  font-family: "Bebas Neue", cursive;
+  color: rgba(0, 0, 0, 0.753);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 0.5px solid black;
+}
+.i2 {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.items2 {
+  display: flex;
+  font-size: 20px;
+  font-family: "Poppins";
+  margin-right: 30px;
+}
+.m {
+  margin-right: 50px;
+}
+
+.story3 {
+  background-color: rgba(255, 255, 255, 0.726);
+  width: 100vw;
+  height: 400px;
+}
+.text3 {
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: "Bebas Neue";
+  margin-bottom: 5px;
+  margin-top: 35px;
+  font-size: 36px;
+}
+.underline3 {
+  height: 0.5px;
+  background-color: black;
+  width: 60px;
+  margin: 0 auto;
+  position: relative;
+  top: 20%;
+}
+.content3 {
+  display: flex;
+  padding-right: 100px;
+  padding-left: 150px;
+}
+
+.t3 {
+  font-size: 20px;
+  font-family: "Bebas Neue";
+}
+.te3 {
+  font-family: "Poppins";
+  font-size: 10px;
+}
+.story {
+  width: 40%;
+}
+.img3 {
+  width: 50%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+.block3 {
+  height: 222px;
+  width: 140px;
+  background-image: url(./les2.jpg);
+  font-family: "Bebas Neue";
+  margin-top: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  font-size: 30px;
+}
